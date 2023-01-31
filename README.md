@@ -6,7 +6,7 @@ Desafio CSS de 100 dias : Um começo fácil para o desafio com um número de com
 
 #Visual Studio Code
 
-Link Site:   https://renataffc.github.io/Relogio-Digital---JS/
+Link Site:   https://renataffc.github.io/100DaysCSS-01---Renata/
 
 ## 🚀 Let's code! 🚀
 
