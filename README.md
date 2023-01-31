@@ -11,5 +11,5 @@ Link Site:   https://renataffc.github.io/Relogio-Digital---JS/
 ## 🚀 Let's code! 🚀
 
 <div align="center">
-   <img src= "https://user-images.githubusercontent.com/97262523/215877563-9c29633f-5fb1-476b-a322-5c2961af4d42.png">
+   <img src= "https://user-images.githubusercontent.com/97262523/215878407-4c2352ca-cb07-41d0-9cf1-49a909c4c3d5.png">
 </div>
